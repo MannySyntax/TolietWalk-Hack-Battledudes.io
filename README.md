@@ -2,7 +2,7 @@
 The best publicized battledudes.io cheat | By MannyCodes
 
  Author: MannyCodes
-  Features
+  /n Features
    - Aimbot (Z Key)
    - ESP/Tracers (X Key)
    - Zoom (C Key)
